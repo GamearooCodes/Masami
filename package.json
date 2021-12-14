@@ -1,0 +1,26 @@
+{
+  "name": "masami",
+  "version": "1.0.0",
+  "description": "Coming Soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamearooCodes/Masami.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamearooCodes/Masami/issues"
+  },
+  "homepage": "https://github.com/GamearooCodes/Masami#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "eris": "^0.16.1",
+    "winston": "^3.3.3",
+    "winston-console-format": "^1.0.8"
+  }
+}
